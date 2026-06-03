@@ -116,7 +116,7 @@ body {
 
 /* Hero Graphics Container */
 .hero-background {
-    background-image: url(/hero-image.jpg);
+    background-image: url(hero-image.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right center;
